@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['kim_scott@not.a.real.address.com']
   spec.description   = %q{Simply show how class loading and unloading works}
   spec.summary       = %q{Simply show how class loading and unloading works}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/ZenGirl/ruby-class-unloading'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
